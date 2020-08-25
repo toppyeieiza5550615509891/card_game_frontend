@@ -3,7 +3,7 @@
 
 # Config
 ```
-    ไป set ค่า server backend ที่ไฟล์config.js
+    - ไป set ค่า server backend ที่ไฟล์config.js
 ```
 
 # Deploy
